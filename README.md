@@ -2,7 +2,7 @@
 # Chime!
 ### Sell and order food in Miagao with just one app
 
-Chime! is a mobile app customized for food enthusiasts in Miagao, Iloilo.
+Chime! is a mobile app customized for food businesses and customers in Miagao, Iloilo.
 
 The app has supports:
 - Menu of the Day
