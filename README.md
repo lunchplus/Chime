@@ -14,6 +14,4 @@ The app has supports:
 and much more!
 
 
-[![image][button]](Your Link Address)
-[button] https://github.com/lunchplus/Chime-/blob/main/images/Logo.jpg
-[logo]: (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+[![button](https://github.com/lunchplus/Chime-/blob/main/images/Button.png)](https://github.com/lunchplus/Chime/tree/main/apk)
