@@ -17,7 +17,7 @@ and much more!
 
 
 
-[![button](https://github.com/lunchplus/Chime-/blob/main/images/Button.png)](https://github.com/lunchplus/Chime/tree/main/apk)
+[![button](https://github.com/lunchplus/Chime-/blob/main/images/Button.png)](https://github.com/lunchplus/Chime-Mobile-App/blob/main/apk/Chime.apk)
 
 **The app will be released in the Play Store soon!**
 
