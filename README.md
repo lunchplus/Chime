@@ -15,7 +15,11 @@ The app has supports:
 and much more!
 
 
+
+
 [![button](https://github.com/lunchplus/Chime-/blob/main/images/Button.png)](https://github.com/lunchplus/Chime/tree/main/apk)
+
+**The app will be released in the Play Store soon!**
 
 ---
 ## How to install the APK on Android (from Android Authority):
